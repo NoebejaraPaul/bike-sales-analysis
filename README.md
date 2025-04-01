@@ -80,15 +80,15 @@ This project analyzes a Bike Sales Dataset (sourced from Kaggle) to understand c
 5. See calculations in Working Sheet
 
 ## 📈 Key Takeaways
-✅ **Gender Analysis:** Males with higher average income tend to buy more bikes.
-✅ **Commute Distance:** Customers with 0-1 mile commutes purchase bikes most frequently. 
-✅ **Age Group Trends:** Middle-aged individuals are the primary buyers.  
+ ✅ **Gender Analysis:** Males with higher average income tend to buy more bikes.
+ ✅ **Commute Distance:** Customers with 0-1 mile commutes purchase bikes most frequently. 
+ ✅ **Age Group Trends:** Middle-aged individuals are the primary buyers.  
 
 
 
 ## 📬 Connect With Me
 🔗 LinkedIn: [https://www.linkedin.com/in/noebejara-letso-ala-9b9340351/]  
-📧 Email: [noebejaraletsoala@gmail.comm]  
+📧 Email: [noebejaraletsoala@gmail.com]  
 
 
 ## 🎯 Conclusion
